@@ -1,0 +1,64 @@
+body {
+  font-family: Montserrat;
+  height: 100%;
+}
+
+.nav-item {
+  margin-right: 8px;
+  font-weight: 200;
+}
+
+a.btn:hover {
+  background: linear-gradient(to right, #5691c8, #457fca);
+}
+
+.nav-item a {
+  color: black !important;
+  font-weight: 500;
+}
+
+a.nav-link.name {
+  color: rgb(0, 0, 0) !important;
+  font-weight: 600;
+}
+
+a.btn {
+  background: linear-gradient(to right, #457fca, #5691c8);
+  border-radius: 20px;
+}
+
+.tombol a {
+  margin-bottom: 8px;
+}
+
+.nav-item a:hover {
+  color: #6e6e6e !important;
+}
+
+a.nav-link.name:hover {
+  color: #6e6e6e !important;
+  font-weight: 600;
+}
+
+.utama {
+  margin-top: 180px;
+}
+
+footer a.icons {
+  margin-right: 18px;
+  opacity: 0.8;
+  transition: opacity 0.2s;
+}
+
+footer a.icons:hover {
+  opacity: 1;
+}
+
+a.navbar-brand img {
+  opacity: 1;
+}
+
+a.navbar-brand img:hover {
+  opacity: 0.9;
+  transition: opacity 0.2s;
+}
